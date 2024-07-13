@@ -1,0 +1,14 @@
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\bin\Debug\net8.0\VariableLength.exe
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\bin\Debug\net8.0\VariableLength.deps.json
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\bin\Debug\net8.0\VariableLength.runtimeconfig.json
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\bin\Debug\net8.0\VariableLength.dll
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\bin\Debug\net8.0\VariableLength.pdb
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\obj\Debug\net8.0\VariableLength.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\obj\Debug\net8.0\VariableLength.AssemblyInfoInputs.cache
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\obj\Debug\net8.0\VariableLength.AssemblyInfo.cs
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\obj\Debug\net8.0\VariableLength.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\obj\Debug\net8.0\VariableLength.dll
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\obj\Debug\net8.0\refint\VariableLength.dll
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\obj\Debug\net8.0\VariableLength.pdb
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\obj\Debug\net8.0\VariableLength.genruntimeconfig.cache
+C:\Users\paulo\Downloads\Willian\VariableLength\VariableLength\obj\Debug\net8.0\ref\VariableLength.dll
